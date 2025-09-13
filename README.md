@@ -1,4 +1,4 @@
-# linear-equation-solver
+# linear-expression-solver
 A website for a coding project at school.
 
 # How to contribute
@@ -7,7 +7,7 @@ Once you have access, all you have to do is work on your assigned roles.
 ## On GitHub itself
 Click on the index.html file in the 'Code' tab, and press the little pencil icon near the top right. This will open the edit menu. Please do not mess with the <link> or <script> tags, as those link the Javascript and CSS. After editing, click on 'Commit Changes...' and add a short summary.
 
-## In your own code editor (Visual Studio Code, Notepad++, etc.)
+## In your own code editor (Visual Studio Code, Notepad++, etc.) (My preferred method)
 
 Download [GitHub Desktop] (https://desktop.github.com/download). After that, click on the 'Code' *dropdown* in the 'Code' *tab*, where you can simply click 'Open in GitHub Desktop', and once it opens, click on 'Open in external editor' in the app. It will open the repository in your chosen text editor, after which you can edit it.
 
