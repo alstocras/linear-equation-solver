@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.cdnfonts.com/css/darktech-ldr');
+body {
+    background-color: lightseagreen;
+}
+h1, h2 {
+    font-family: 'Lexend';
+}
+label {
+    font-family: 'Audiowide';
+}
+button {
+    font-family: 'Darktech LDR';
+}
+input{
+    font-family: monospace;
+    border-radius: 5px;
+    width: 500px;
+}
