@@ -9,6 +9,6 @@ Click on the index.html file in the 'Code' tab, and press the little pencil icon
 
 ## In your own code editor (Visual Studio Code, Notepad++, etc.) (My preferred method)
 
-Download [GitHub Desktop] (https://desktop.github.com/download). After that, click on the 'Code' *dropdown* in the 'Code' *tab*, where you can simply click 'Open in GitHub Desktop', and once it opens, click on 'Open in external editor' in the app. It will open the repository in your chosen text editor, after which you can edit it.
+Download [GitHub Desktop] (https://desktop.github.com/download). After that, click on the 'Code' *dropdown* in the 'Code' *tab*, where you can simply click 'Open in GitHub Desktop', and once it opens, click on 'Open in external editor' in the app. It will open the repository in your chosen text editor, after which you can edit it. Again, do not change the <link> and <script> tags in the HTML unless you know *exactly* what you're doing.
 
 When you want to publish your changes, go to GitHub Desktop. It will detect what files have been changed. Add a summary, commit, and press 'Push origin'. Note that once you've cloned a repository to GitHub Desktop, you need not clone it again and can just edit, commit, and push origin.
